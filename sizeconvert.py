@@ -3,7 +3,7 @@ import numpy as np
 import os
 
 # Input path
-INPUT_PATH = r"E:\4SN22AI062VAP\codetrials\Vrushali A Poojary.jpg"
+INPUT_PATH = r"E:\4SN22AI062VAP\codetrials\preethi.jpg"
 
 # Standard passport photo size (in pixels, 300 DPI)
 WIDTH, HEIGHT = 413, 531
